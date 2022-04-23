@@ -63,20 +63,20 @@ endmodule
 ###Logic Symbol:
 ![output](https://github.com/charansai0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/1.png?raw=true)
 
-###RTL Realization:
+### RTL Realization:
 ![ouutput](https://github.com/charansai0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/2.png?raw=true)
-###Truthtable:
+### Truthtable:
 ![output](https://github.com/charansai0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/3.png?raw=true)
-###Timing Diagram:
+### Timing Diagram:
 ![output](https://github.com/charansai0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/5.png)
-##Full Adder :
-###Logic Symbol:
+## Full Adder :
+### Logic Symbol:
 ![output](https://github.com/charansai0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/6.png)
-###RTL Realization:
+### RTL Realization:
 ![output](https://github.com/charansai0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/7.png)
-###Truthtable:
+### Truthtable:
 ![output](https://github.com/charansai0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/8.png)
-###Timing Diagram:
+### Timing Diagram:
 ![output](https://github.com/charansai0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/9.png)
 ### Result:
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
