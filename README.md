@@ -59,8 +59,8 @@ assign sum = ((a^b)^c);
 assign carry = ((a&b)|(b&c)|(c&a));
 endmodule
 */
-##Half Adder :
-###Logic Symbol:
+## Half Adder :
+### Logic Symbol:
 ![output](https://github.com/charansai0/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/1.png?raw=true)
 
 ### RTL Realization:
